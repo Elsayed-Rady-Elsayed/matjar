@@ -27,8 +27,8 @@
       "@types/*": ["src/types/*"],
       "@types": ["src/types/index"],
       "@styles/*": ["src/styles/*"],
-      "@layouts/*": ["src/layouts/*"],
       "@utils/*": ["src/utils/*"],
+      "@layouts/*": ["src/layouts/*"],
       "@utils": ["src/utils/index"],
       "@services/*": ["src/services/*"],
       "@validations/*": ["src/validations/*"]
